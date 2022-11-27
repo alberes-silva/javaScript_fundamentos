@@ -1,0 +1,107 @@
+
+
+Repositório do Curso
+
+Os códigos deste curso estão disponíveis no repositório:
+
+https://github.com/treinaweb/treinaweb-javascript-fundamentos
+
+Para clonar:
+$ git clone https://github.com/treinaweb/treinaweb-javascript-fundamentos.git
+
+ O Node.js é um conhecimento obrigatório para quem quer trabalhar com JavaScript.
+
+O Deno também é um ambiente de execução de JavaScript.  O Deno também interpreta TypeScript.
+
+https://nodejs.org/
+https://deno.land/
+
+O “npm” (node package manager). Com ele podemos gerenciar as dependências de nossos projetos.
+$ npm install jquery
+$ npm update jquery
+
+
+https://www.npmjs.com/
+
+Nosso servidor de desenvolvimento, o Tw Dev Server
+
+- Testes - Jasmine
+
+https://qunitjs.com/
+https://mochajs.org/
+https://jasmine.github.io/
+https://testing-library.com/
+https://jestjs.io/
+https://www.cypress.io/
+
+- Qualidade de Código - JSLint
+
+http://www.jslint.com/
+http://jshint.com/
+
+- Automatização de Tarefas
+
+https://gulpjs.com/
+https://gruntjs.com/
+
+- Servidores
+Os frameworks mais conhecidos para Node.js são: Express, Hapi e Koa.
+
+http://expressjs.com
+https://hapijs.com/
+http://koajs.com/
+
+- Bancos de Dados (MongoDB)
+https://www.mongodb.com/
+
+- Aplicativos Mobile
+
+https://cordova.apache.org/
+https://phonegap.com/
+
+React Native
+https://reactnative.dev/
+
+- Softwares Desktop (Electron)
+https://electronjs.org/
+
+Uma biblioteca que nos ajuda a trabalhar com 3D com JavaScript é o three.js.
+
+https://threejs.org/
+
+- Jogos (Impact)
+http://impactjs.com/
+https://phaser.io/
+
+- Plugins
+PhotoShop.
+
+- Sistemas Operacionais (node-os)
+http://node-os.com/
+
+- Programação de Hardwares e Internet das Coisas
+noduino, um framework para acessar os controles básicos do Arduino
+
+http://sbstjn.github.io/noduino/
+https://tessel.io/
+https://cylonjs.com/
+
+- Hologramas
+HoloJS
+https://github.com/Microsoft/HoloJS
+
+- Realidade Virtual e Realidade Aumentada
+JavaScript ARToolKit.
+
+https://github.com/artoolkit/jsartoolkit5
+
+- Inteligência Artificial
+https://www.tensorflow.org/js/
+
+- Instalção do VSCode
+
+- Instalação do Node.js (Manual do instalação)
+https://www.treinaweb.com.br/blog/instalacao-do-node-js-windows-mac-e-linux/
+
+
+
