@@ -103,5 +103,87 @@ https://www.tensorflow.org/js/
 - Instalação do Node.js (Manual do instalação)
 https://www.treinaweb.com.br/blog/instalacao-do-node-js-windows-mac-e-linux/
 
+- Tipos Primitivos
+
+São eles:
+
+Boolean - possuem apenas dois valores: verdadeiro ou falso;
+Undefined - indica que não foi definido um valor;
+Null - indica que um valor é nulo;
+Number - armazena valores numéricos;
+String - armazena textos;
+Symbol - armazena símbolos.
+
+- Valores considerados Verdadeiros e Falsos
+Os seguintes valores são considerados falsos no JavaScript:
+
+0;
+-0;
+null;
+false;
+NaN;
+undefined;
+"" (string vazia).
+
+- operadores:
+
+* Operadores Lógicos
+E (&&) e OU (||)
+
+* Operadores Aritméticos
+
++ (adição)
+
+- (subtração)
+
+* (multiplicação)
+
+/ (divisão)
+
+% (módulo)
+
+** (potenciação)
+
+* Operadores de Igualdade
+
+== (Igual)
+
+!= (Diferente)
+
+=== (Verifica se dois valores são iguais e do mesmo tipo)
+
+!== (Verifica se dois valores são diferentes, incluindo o tipo)
+
+* Operadores Relacionais
+
+<= (Verifica se um valor é menor ou igual)
+
+>= (Verifica se um valor é maior ou igual)
+
+< (Verifica se um valor é menor)
+
+> (Verifica se um valor é maior)
+
+* Concatenação de Strings
+
+let meuNome = "Akira"
+"Olá, " + meuNome + "!";
+// resultado: "Olá, Akira!";
+
+* Operadores Unários
+
+- (Inverte o sinal de um número)
+
+! (Nega algo, invertendo os valores de true e false)
+
+typeof (Retorna o tipo do valor)
+
+* Operador Ternário
+
+Condição
+Expressão a ser executada caso a condição seja verdadeira
+Expressão a ser executada caso a condição seja falsa
+
+3 > 8 ? 'É maior' : 'É menor'
 
 
